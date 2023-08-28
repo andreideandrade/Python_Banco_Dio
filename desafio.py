@@ -1,8 +1,8 @@
 import textwrap
 
 def menu():
+    titulo('MENU')
     menu = """\n
-    ===================== MENU =======================
     [d]\tDepositar
     [s]\tSacar
     [e]\tExtrato
